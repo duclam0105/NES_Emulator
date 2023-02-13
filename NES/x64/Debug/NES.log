@@ -1,0 +1,4 @@
+﻿  Bus.cpp
+  olc6502.cpp
+  Generating Code...
+F:\Microsoft Visual Studio\Project\NES_Emulator\NES\olc6502.cpp(85): error C4716: 'olc6502::IMM': must return a value
